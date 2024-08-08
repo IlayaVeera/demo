@@ -4,3 +4,4 @@ first commit 	> main
 4th commit 	> b1
 5th commit 	> main
 6th commit 	> main
+7th commit 	> b2
