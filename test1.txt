@@ -1,7 +1,15 @@
-first commit
+first commit	> main
 
-second commit
+second commit	> main
 
+<<<<<<< HEAD
 third commit
 
 sixth commit	> main
+=======
+third commit	> main
+
+fourth commit	> f1
+
+fifth commit	> f1
+>>>>>>> f1
