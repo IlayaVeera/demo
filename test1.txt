@@ -1,5 +1,7 @@
-first commit
+first commit	> main
 
-second commit
+second commit	> main
 
-third commit
+third commit	> main
+
+fourth commit	> f1
